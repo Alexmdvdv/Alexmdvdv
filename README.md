@@ -17,8 +17,10 @@
         </samp>
 </p>
 
+
 <hr>
 <h3 align="center"> Languages & Frameworks & Tools & Abilities </h3>
+<br>
 <br>
 
 <p align="center">
@@ -31,10 +33,14 @@
  <code><img title="C" height="40" src="images/python-original.svg"></code>
  <code><img title="C" height="40" src="images/919853.png"></code>
 
+<br>
+<br>
+<br>
 
 <hr>
 <h3 align="center"> Connect with me   </h3>
 <br>
+
 
 <div align="center">
 <a href="https://github.com/Alexmdvdv" target="_blank">
