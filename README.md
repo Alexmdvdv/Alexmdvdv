@@ -19,19 +19,22 @@
 
 
 <hr>
-<h3 align="center"> Languages & Frameworks & Tools & Abilities </h3>
+<h3 align="center"> Languages & Frameworks & Tools  </h3>
 <br>
 <br>
 
 <p align="center">
- <code><img title="C" height="40" src="images/fastapi.svg"></code>
- <code><img title="C" height="40" src="images/45_github-tile.e1be128b4e.svg"></code>
+ <code><img title="C" height="40" src="images/python-original.svg"></code>
  <code><img title="C" height="40" src="images/django.png"></code>
+ <code><img title="C" height="40" src="images/45_github-tile.e1be128b4e.svg"></code>
  <code><img title="C" height="40" src="images/git-original.svg"></code>
+ <code><img title="C" height="40" src="images/fastapi.svg"></code>
  <code><img title="C" height="40" src="images/Sqlite-square-icon.svg.png"></code>
  <code><img title="C" height="40" src="images/postgresql.svg"></code>
- <code><img title="C" height="40" src="images/python-original.svg"></code>
  <code><img title="C" height="40" src="images/919853.png"></code>
+ <code><img title="C" height="40" src="images/celery.png"></code>
+ <code><img title="C" height="40" src="images/postman-icon.svg"></code>
+ <code><img title="C" height="40" src="images/redis_plain_wordmark_logo_icon_14635.png"></code>
 
 <br>
 <br>
